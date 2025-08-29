@@ -1,7 +1,7 @@
 Homework \#1
 ================
 
-### Due 8am EST Friday Sept 6, 2024
+### Due 8am EST Friday Sept 5, 2025
 
 ### Econ B2000, MA Econometrics
 
@@ -21,7 +21,7 @@ your study group members at the beginning of your homework.*
 
 1.  What are the names of the people in your study group (for now)?
 2.  Work on the Hawkes stats review - you must complete the diagnostic
-    test by end of the day Friday Sept 27.
+    test by end of the day Friday Sept 26.
 3.  *this is due before class* During class on Thursday, we’ll do
     experiments on sequences of random numbers. I gave out dice in first
     class, for you to play with – sanding, filing, heating, drilling,
